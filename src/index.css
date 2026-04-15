@@ -9,7 +9,7 @@ body {
   font-family: "Quicksand", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: radial-gradient(#303b37, #1a1f1d);
+  background: radial-gradient(#303e39, #1a1f1d);
   color: #e1eeeb;
   min-height: 100vh;
 }
@@ -20,14 +20,15 @@ body {
 }
 
 #header img {
-  width: 5rem;
-  height: 5rem;
+  width: 8rem;
+  height: 8rem;
   object-fit: contain;
   background-color: transparent;
 }
 
 #header h1 {
   font-size: 1.5rem;
+  color: #29ac90;
 }
 
 #user-input {
@@ -38,7 +39,7 @@ body {
   max-width: 30rem;
   margin: 2rem auto;
   border-radius: 4px;
-  background: linear-gradient(180deg, #307e6c, #2b996d);
+  background: linear-gradient(180deg, #2d7666, #2b996d);
 }
 
 .input-group {
